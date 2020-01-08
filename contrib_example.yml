@@ -1,0 +1,5 @@
+name: Contrib example
+description: 'A simple repository when you want to start to contrib ;-).'
+package: 'Contrib example'
+type: module
+core: 8.x
